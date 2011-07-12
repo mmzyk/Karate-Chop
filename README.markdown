@@ -11,11 +11,11 @@ in the kata.
 
 They are:
 
-Recursive Search
-Iterative Search
-Threaded Search
-Traditional Binary Search
-Tree Search
+* Recursive Search
+* Iterative Search
+* Threaded Search
+* Traditional Binary Search
+* Tree Search
 
 I am sure these are not the only solutions. 
 They might not even be the best solutions.
